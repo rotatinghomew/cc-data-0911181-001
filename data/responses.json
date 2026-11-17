@@ -1,0 +1,1262 @@
+[
+  {
+    "attempt": "A00-0",
+    "item": "I0",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A00-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A00-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A00-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A00-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A00-1",
+    "item": "I2",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A00-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A00-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A00-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A00-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A01-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A01-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A01-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A01-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A01-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A01-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A01-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A01-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A01-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A01-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A02-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A02-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A02-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A02-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A02-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A02-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A02-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A02-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A02-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A02-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A03-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A03-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A03-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A03-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A03-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A03-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A03-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A03-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A03-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A03-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A04-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A04-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A04-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A04-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A04-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A04-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A04-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A04-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A04-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A04-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A05-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A05-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A05-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A05-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A05-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A05-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A05-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A05-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A05-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A05-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A06-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A06-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A06-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A06-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A06-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A06-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A06-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A06-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A06-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A06-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A07-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A07-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A07-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A07-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A07-0",
+    "item": "I4",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A07-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A07-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A07-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A07-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A07-1",
+    "item": "I7",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A08-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A08-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A08-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A08-0",
+    "item": "I3",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A08-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A08-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A08-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A08-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A08-1",
+    "item": "I6",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A08-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A09-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A09-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A09-0",
+    "item": "I2",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A09-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A09-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A09-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A09-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A09-1",
+    "item": "I5",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A09-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A09-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A10-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A10-0",
+    "item": "I1",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A10-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A10-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A10-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A10-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A10-1",
+    "item": "I3",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A10-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A10-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A10-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A11-0",
+    "item": "I0",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A11-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A11-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A11-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A11-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A11-1",
+    "item": "I2",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A11-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A11-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A11-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A11-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A12-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A12-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A12-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A12-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A12-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A12-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A12-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A12-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A12-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A12-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A13-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A13-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A13-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A13-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A13-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A13-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A13-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A13-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A13-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A13-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A14-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A14-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A14-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A14-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A14-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A14-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A14-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A14-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A14-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A14-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A15-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A15-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A15-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A15-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A15-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A15-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A15-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A15-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A15-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A15-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A16-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A16-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A16-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A16-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A16-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A16-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A16-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A16-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A16-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A16-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A17-0",
+    "item": "I0",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A17-0",
+    "item": "I1",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A17-0",
+    "item": "I2",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A17-0",
+    "item": "I3",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A17-0",
+    "item": "I4",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A17-1",
+    "item": "I2",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A17-1",
+    "item": "I3",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A17-1",
+    "item": "I5",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A17-1",
+    "item": "I6",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A17-1",
+    "item": "I7",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A18-0",
+    "item": "I7",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A18-0",
+    "item": "I8",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A18-0",
+    "item": "I9",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A18-1",
+    "item": "I10",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A18-1",
+    "item": "I11",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A19-0",
+    "item": "I7",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A19-0",
+    "item": "I8",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A19-0",
+    "item": "I9",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A19-1",
+    "item": "I10",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A19-1",
+    "item": "I11",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A20-0",
+    "item": "I7",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A20-0",
+    "item": "I8",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A20-0",
+    "item": "I9",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A20-1",
+    "item": "I10",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A20-1",
+    "item": "I11",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A21-0",
+    "item": "I7",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A21-0",
+    "item": "I8",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A21-0",
+    "item": "I9",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A21-1",
+    "item": "I10",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A21-1",
+    "item": "I11",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A22-0",
+    "item": "I7",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A22-0",
+    "item": "I8",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A22-0",
+    "item": "I9",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A22-1",
+    "item": "I10",
+    "status": "omitted",
+    "score": null
+  },
+  {
+    "attempt": "A22-1",
+    "item": "I11",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A23-0",
+    "item": "I7",
+    "status": "answered",
+    "score": 2
+  },
+  {
+    "attempt": "A23-0",
+    "item": "I8",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A23-0",
+    "item": "I9",
+    "status": "answered",
+    "score": 1
+  },
+  {
+    "attempt": "A23-1",
+    "item": "I10",
+    "status": "answered",
+    "score": 0
+  },
+  {
+    "attempt": "A23-1",
+    "item": "I11",
+    "status": "answered",
+    "score": 1
+  }
+]

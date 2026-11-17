@@ -1,0 +1,62 @@
+[
+  {
+    "item": "I0",
+    "maximum": 2,
+    "topic": "手机操作"
+  },
+  {
+    "item": "I1",
+    "maximum": 2,
+    "topic": "构图"
+  },
+  {
+    "item": "I2",
+    "maximum": 2,
+    "topic": "表达"
+  },
+  {
+    "item": "I3",
+    "maximum": 2,
+    "topic": "手机操作"
+  },
+  {
+    "item": "I4",
+    "maximum": 2,
+    "topic": "构图"
+  },
+  {
+    "item": "I5",
+    "maximum": 2,
+    "topic": "表达"
+  },
+  {
+    "item": "I6",
+    "maximum": 2,
+    "topic": "手机操作"
+  },
+  {
+    "item": "I7",
+    "maximum": 2,
+    "topic": "构图"
+  },
+  {
+    "item": "I8",
+    "maximum": 2,
+    "topic": "表达"
+  },
+  {
+    "item": "I9",
+    "maximum": 2,
+    "topic": "手机操作"
+  },
+  {
+    "item": "I10",
+    "maximum": 2,
+    "topic": "构图"
+  },
+  {
+    "item": "I11",
+    "maximum": 2,
+    "topic": "表达"
+  }
+]

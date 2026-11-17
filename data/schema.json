@@ -1,0 +1,97 @@
+{
+  "learners": {
+    "key": [
+      "learner"
+    ],
+    "required": [
+      "learner",
+      "campus",
+      "cohort"
+    ],
+    "foreign": {}
+  },
+  "items": {
+    "key": [
+      "item"
+    ],
+    "required": [
+      "item",
+      "maximum",
+      "topic"
+    ],
+    "foreign": {}
+  },
+  "forms": {
+    "key": [
+      "form"
+    ],
+    "required": [
+      "form",
+      "items"
+    ],
+    "foreign": {}
+  },
+  "attempts": {
+    "key": [
+      "attempt"
+    ],
+    "required": [
+      "attempt",
+      "learner",
+      "form",
+      "date",
+      "occasion"
+    ],
+    "foreign": {
+      "learner": [
+        "learners",
+        "learner"
+      ],
+      "form": [
+        "forms",
+        "form"
+      ]
+    }
+  },
+  "responses": {
+    "key": [
+      "attempt",
+      "item"
+    ],
+    "required": [
+      "attempt",
+      "item",
+      "status"
+    ],
+    "foreign": {
+      "attempt": [
+        "attempts",
+        "attempt"
+      ],
+      "item": [
+        "items",
+        "item"
+      ]
+    }
+  },
+  "placement_rules": {
+    "key": [
+      "rule"
+    ],
+    "required": [
+      "rule",
+      "label",
+      "minimum_raw_fraction"
+    ],
+    "foreign": {}
+  },
+  "class_offers": {
+    "key": [
+      "offer"
+    ],
+    "required": [
+      "offer"
+    ],
+    "foreign": {}
+  }
+}

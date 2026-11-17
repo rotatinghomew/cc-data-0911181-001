@@ -1,0 +1,12 @@
+[
+  {
+    "offer": "advanced-east",
+    "seats": 2,
+    "minimum_raw_fraction": 0.4
+  },
+  {
+    "offer": "advanced-west",
+    "seats": 2,
+    "minimum_raw_fraction": 0.4
+  }
+]

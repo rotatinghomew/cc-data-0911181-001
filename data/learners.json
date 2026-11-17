@@ -1,0 +1,122 @@
+[
+  {
+    "learner": "L00",
+    "campus": "east",
+    "cohort": "G0"
+  },
+  {
+    "learner": "L01",
+    "campus": "west",
+    "cohort": "G1"
+  },
+  {
+    "learner": "L02",
+    "campus": "north",
+    "cohort": "G2"
+  },
+  {
+    "learner": "L03",
+    "campus": "east",
+    "cohort": "G3"
+  },
+  {
+    "learner": "L04",
+    "campus": "west",
+    "cohort": "G4"
+  },
+  {
+    "learner": "L05",
+    "campus": "north",
+    "cohort": "G5"
+  },
+  {
+    "learner": "L06",
+    "campus": "east",
+    "cohort": "G0"
+  },
+  {
+    "learner": "L07",
+    "campus": "west",
+    "cohort": "G1"
+  },
+  {
+    "learner": "L08",
+    "campus": "north",
+    "cohort": "G2"
+  },
+  {
+    "learner": "L09",
+    "campus": "east",
+    "cohort": "G3"
+  },
+  {
+    "learner": "L10",
+    "campus": "west",
+    "cohort": "G4"
+  },
+  {
+    "learner": "L11",
+    "campus": "north",
+    "cohort": "G5"
+  },
+  {
+    "learner": "L12",
+    "campus": "east",
+    "cohort": "G0"
+  },
+  {
+    "learner": "L13",
+    "campus": "west",
+    "cohort": "G1"
+  },
+  {
+    "learner": "L14",
+    "campus": "north",
+    "cohort": "G2"
+  },
+  {
+    "learner": "L15",
+    "campus": "east",
+    "cohort": "G3"
+  },
+  {
+    "learner": "L16",
+    "campus": "west",
+    "cohort": "G4"
+  },
+  {
+    "learner": "L17",
+    "campus": "north",
+    "cohort": "G5"
+  },
+  {
+    "learner": "L18",
+    "campus": "east",
+    "cohort": "G0"
+  },
+  {
+    "learner": "L19",
+    "campus": "west",
+    "cohort": "G1"
+  },
+  {
+    "learner": "L20",
+    "campus": "north",
+    "cohort": "G2"
+  },
+  {
+    "learner": "L21",
+    "campus": "east",
+    "cohort": "G3"
+  },
+  {
+    "learner": "L22",
+    "campus": "west",
+    "cohort": "G4"
+  },
+  {
+    "learner": "L23",
+    "campus": "north",
+    "cohort": "G5"
+  }
+]

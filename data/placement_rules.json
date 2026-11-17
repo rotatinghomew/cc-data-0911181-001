@@ -1,0 +1,12 @@
+[
+  {
+    "rule": "intro",
+    "label": "入门",
+    "minimum_raw_fraction": 0.0
+  },
+  {
+    "rule": "advanced",
+    "label": "进阶讨论",
+    "minimum_raw_fraction": 0.7
+  }
+]
